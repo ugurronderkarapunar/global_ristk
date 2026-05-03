@@ -1,0 +1,57 @@
+// frontend/messages/tr.json
+{
+  "common": {
+    "appName": "GlobalTrade RiskAnalyzer",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "search": "Ara",
+    "noData": "Veri bulunamadı"
+  },
+  "dashboard": {
+    "title": "Risk Panosu",
+    "subtitle": "Küresel Ticaret Risk İzleme",
+    "overallRisk": "Genel Risk",
+    "political": "Siyasi",
+    "economic": "Ekonomik",
+    "security": "Güvenlik",
+    "trade": "Ticaret",
+    "highRisk": "YÜKSEK RİSK",
+    "mediumRisk": "ORTA RİSK",
+    "lowRisk": "DÜŞÜK RİSK",
+    "refreshData": "Verileri Yenile",
+    "lastUpdated": "Son güncelleme",
+    "heatmapTitle": "Küresel Risk Isı Haritası"
+  },
+  "analysis": {
+    "title": "Ülke Analizi",
+    "selectCountry": "Ülke Seçin",
+    "analyze": "Analiz Et",
+    "aiSummary": "AI Analiz Özeti",
+    "sources": "Kaynaklar",
+    "keyFindings": "Önemli Bulgular",
+    "riskTrend": "Risk Trendi"
+  },
+  "logistics": {
+    "title": "Sevkiyat Optimizasyonu",
+    "origin": "Çıkış Ülkesi",
+    "destination": "Varış Ülkesi",
+    "cargoType": "Yük Tipi",
+    "cargoValue": "Yük Değeri (USD)",
+    "optimize": "Rotayı Optimize Et",
+    "results": "Optimizasyon Sonuçları",
+    "routeRisk": "Rota Risk Puanı",
+    "estimatedCost": "Tahmini Maliyet",
+    "estimatedDays": "Tahmini Süre",
+    "complianceNotes": "Mevzuat Önerileri",
+    "days": "gün"
+  },
+  "subscription": {
+    "upgrade": "Planı Yükselt",
+    "currentPlan": "Mevcut Plan",
+    "daysLeft": "gün kaldı",
+    "proPlan": "PRO Plan",
+    "enterprisePlan": "Enterprise Plan"
+  }
+}
