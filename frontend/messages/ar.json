@@ -1,0 +1,57 @@
+// frontend/messages/ar.json
+{
+  "common": {
+    "appName": "محلل المخاطر العالمي",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "search": "بحث",
+    "noData": "لا توجد بيانات"
+  },
+  "dashboard": {
+    "title": "لوحة المخاطر",
+    "subtitle": "مراقبة مخاطر التجارة العالمية",
+    "overallRisk": "المخاطر الإجمالية",
+    "political": "سياسي",
+    "economic": "اقتصادي",
+    "security": "أمني",
+    "trade": "تجاري",
+    "highRisk": "مخاطر عالية",
+    "mediumRisk": "مخاطر متوسطة",
+    "lowRisk": "مخاطر منخفضة",
+    "refreshData": "تحديث البيانات",
+    "lastUpdated": "آخر تحديث",
+    "heatmapTitle": "خريطة المخاطر العالمية"
+  },
+  "analysis": {
+    "title": "تحليل الدولة",
+    "selectCountry": "اختر الدولة",
+    "analyze": "تحليل",
+    "aiSummary": "ملخص تحليل الذكاء الاصطناعي",
+    "sources": "المصادر",
+    "keyFindings": "النتائج الرئيسية",
+    "riskTrend": "اتجاه المخاطر"
+  },
+  "logistics": {
+    "title": "محسن الشحن",
+    "origin": "بلد المنشأ",
+    "destination": "بلد الوجهة",
+    "cargoType": "نوع الشحنة",
+    "cargoValue": "قيمة الشحنة (دولار)",
+    "optimize": "تحسين المسار",
+    "results": "نتائج التحسين",
+    "routeRisk": "درجة مخاطر المسار",
+    "estimatedCost": "التكلفة المقدرة",
+    "estimatedDays": "الأيام المقدرة",
+    "complianceNotes": "ملاحظات الامتثال",
+    "days": "أيام"
+  },
+  "subscription": {
+    "upgrade": "ترقية الخطة",
+    "currentPlan": "الخطة الحالية",
+    "daysLeft": "أيام متبقية",
+    "proPlan": "الخطة الاحترافية",
+    "enterprisePlan": "خطة المؤسسات"
+  }
+}
