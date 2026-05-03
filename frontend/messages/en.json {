@@ -1,0 +1,57 @@
+// frontend/messages/en.json
+{
+  "common": {
+    "appName": "GlobalTrade RiskAnalyzer",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "noData": "No data found"
+  },
+  "dashboard": {
+    "title": "Risk Dashboard",
+    "subtitle": "Global Trade Risk Monitoring",
+    "overallRisk": "Overall Risk",
+    "political": "Political",
+    "economic": "Economic",
+    "security": "Security",
+    "trade": "Trade",
+    "highRisk": "HIGH RISK",
+    "mediumRisk": "MEDIUM RISK",
+    "lowRisk": "LOW RISK",
+    "refreshData": "Refresh Data",
+    "lastUpdated": "Last updated",
+    "heatmapTitle": "Global Risk Heatmap"
+  },
+  "analysis": {
+    "title": "Country Analysis",
+    "selectCountry": "Select Country",
+    "analyze": "Analyze",
+    "aiSummary": "AI Analysis Summary",
+    "sources": "Sources",
+    "keyFindings": "Key Findings",
+    "riskTrend": "Risk Trend"
+  },
+  "logistics": {
+    "title": "Shipment Optimizer",
+    "origin": "Origin Country",
+    "destination": "Destination Country",
+    "cargoType": "Cargo Type",
+    "cargoValue": "Cargo Value (USD)",
+    "optimize": "Optimize Route",
+    "results": "Optimization Results",
+    "routeRisk": "Route Risk Score",
+    "estimatedCost": "Estimated Cost",
+    "estimatedDays": "Estimated Days",
+    "complianceNotes": "Compliance Notes",
+    "days": "days"
+  },
+  "subscription": {
+    "upgrade": "Upgrade Plan",
+    "currentPlan": "Current Plan",
+    "daysLeft": "days left",
+    "proPlan": "PRO Plan",
+    "enterprisePlan": "Enterprise Plan"
+  }
+}
